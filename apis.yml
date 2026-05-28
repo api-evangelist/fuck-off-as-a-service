@@ -1,0 +1,32 @@
+aid: fuck-off-as-a-service
+name: Fuck Off as a Service
+description: "Asks someone to fuck off"
+url: https://www.foaas.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Social"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Social
+  - Public APIs
+apis:
+  - name: Fuck Off as a Service
+    description: "Asks someone to fuck off"
+    humanURL: https://www.foaas.com
+    baseURL: https://www.foaas.com
+    tags:
+      - Social
+    properties:
+      - type: Documentation
+        url: https://www.foaas.com
+common:
+  - type: Website
+    url: https://www.foaas.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
