@@ -1,0 +1,31 @@
+# Front Door AI Index — fuck-off-as-a-service — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: fuck-off-as-a-service
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.foaas.com
+  final_host: www.foaas.com
+  ownership: shared
+  owner: foaas
+  shares_host_with:
+  - foaas
+  inherited_from: null
+  verdict: scored
+  score: null
+  host_score: 9
+  density: null
+  words: 613
+  tiers:
+    agentic: 2
+    core: 5
+    model: 2
+  ambiguous: 3
+  top_terms:
+    AI: 3
+    ChatGPT: 2
+    artificial intelligence: 2
+    copilot: 2
+    intelligence: 2
+    automation: 1
