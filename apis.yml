@@ -39,7 +39,6 @@ apis:
   - name: Fuck Off as a Service
     description: "Asks someone to fuck off"
     humanURL: https://www.foaas.com
-    baseURL: https://www.foaas.com
     tags:
       - Social
     properties:
